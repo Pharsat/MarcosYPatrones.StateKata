@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MarcosYPatrones.StateKata\MarcosYPatrones.StateKata.csproj" />
+    <ProjectReference Include="..\MarcosYPatrones.StateKata.Classes\MarcosYPatrones.StateKata.Classes.csproj" />
   </ItemGroup>
 
 </Project>
